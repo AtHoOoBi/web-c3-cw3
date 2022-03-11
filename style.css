@@ -1,0 +1,18 @@
+#color {
+  color: blue;
+  background-color: brown;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap");
+h1 {
+  font-family: "El Messiri", sans-serif;
+}
+.text-color {
+  color: aqua;
+  background-color: blueviolet;
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
